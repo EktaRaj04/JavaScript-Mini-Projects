@@ -1,0 +1,18 @@
+#bag-button {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(117, 208, 117, 0.87);
+}
+#wishlist-button {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  border: 2px solid black;
+}
